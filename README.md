@@ -1,5 +1,7 @@
 This repository gathers the work on the implementation of the paper Approximate Inference Turns Deep Networks into Gaussian Processes, studied during the course of Bayesian Machine Learning provided by Rémi Bardenet and Julyan Arbel at Ecole Normale Supérieure Paris-Saclay (MVA Master).
 
+You will find our experiments in the *experiments.ipynb* file and our analysis in the pdf.
+
 *Work performed by Pierre Clavier, Emile Cohen, Julia Linhart*
 
 
